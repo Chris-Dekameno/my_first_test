@@ -11,6 +11,7 @@ body {
   display: block;
   background: linear-gradient(to right, rgba(70, 130, 180, 1) 0%, rgba(112, 128, 144, 1) 100%);
   width: 100%;
+  max-width: 1000px;
   height: 70px;
   z-index: 100;
 }
